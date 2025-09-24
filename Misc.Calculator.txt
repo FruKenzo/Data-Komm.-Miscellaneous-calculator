@@ -13,7 +13,7 @@ namespace Ekstra_opgaver
     {
         static void Main(string[] args)
         {
-            //Definerer variabler og array
+            //Definerer variabler
             string gentagSvar;
             string udregnerValg;
             bool validUdregner = true;
@@ -241,3 +241,4 @@ namespace Ekstra_opgaver
         }
     }
 }
+
