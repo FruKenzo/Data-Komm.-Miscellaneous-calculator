@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-//Julian d07 24-09-2025
+//Julian Ishøj 24-09-2025
 
 namespace Ekstra_opgaver
 {
@@ -240,4 +240,5 @@ namespace Ekstra_opgaver
             while (gentagSvar.ToLower() == "ja");
         }
     }
+
 }
